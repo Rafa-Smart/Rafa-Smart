@@ -12,13 +12,7 @@
 
 ---
 
-## 🏆 Trofi GitHub
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rafa-Smart&theme=gruvbox&margin-w=10&no-frame=true" />
-</p>
-
----
 
 ## 📊 Statistik GitHub
 
@@ -43,7 +37,7 @@
 ## 💻 Tools & Teknologi yang Dipakai
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,nodejs,arduino,vscode,git,github,python,javascript," />
+  <img src="https://skillicons.dev/icons?i=cpp,nodejs,arduino,vscode,git,github,python,javascript,typescript,mysql,npm,expressJs,jest,babel," />
 </p>
 
 ---
