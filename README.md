@@ -20,15 +20,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafa-Smart&theme=react-dark" alt="GitHub Activity Graph"/>
 </p>
 
----
-
-## 💻 Tools & Teknologi yang Dipakai
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,nodejs,arduino,vscode,git,github,python,javascript,typescript,mysql,npm,express,jest,babel," />
-</p>
-
----
 
 ## 🔗 Koneksi Lain
 
