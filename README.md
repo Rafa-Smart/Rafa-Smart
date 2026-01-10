@@ -5,9 +5,8 @@
 
 ## 🧠 Tentang Saya
 
-- 🔭 Saat ini sedang belajar **C++, Node.js, Arduino, dan Machine Learning**
-- 🌱 Sedang mendalami: `C++`, `Arduino`, `Machine learning`
-- 📫 Kontak saya: *rafakhadafi1205@gmail.com*
+- 🔭 Saat ini sedang belajar **Nextjs, ReactJs, TypeScript, Arduino, dan Machine Learning**
+- 📫 Kontak saya: *rafaoffice1205@gmail.com*
 - 💡 Motto: *Resiko datang jika kamu tidak tahu apa yang kamu lakukan*
 
 ---
