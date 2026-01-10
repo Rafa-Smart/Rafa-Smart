@@ -5,7 +5,7 @@
 
 ## 🧠 Tentang Saya
 
-- 🔭 Saat ini sedang belajar **Nextjs, ReactJs, TypeScript, Arduino, dan Machine Learning**
+- 🔭 Saat ini sedang belajar **Nextjs, ReactJs, TypeScript, android, Arduino, dan Machine Learning dan hal hal seputar teknologi yang saya suka lainnya**
 - 📫 Kontak saya: *rafaoffice1205@gmail.com*
 - 💡 Motto: *Resiko datang jika kamu tidak tahu apa yang kamu lakukan*
 
