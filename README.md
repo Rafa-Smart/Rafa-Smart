@@ -13,11 +13,7 @@
 
 
 
-## 📈 Aktivitas GitHub Mingguan
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafa-Smart&theme=react-dark" alt="GitHub Activity Graph"/>
-</p>
+ 
 
 
 ## 🔗 Koneksi Lain
