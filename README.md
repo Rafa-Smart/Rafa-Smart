@@ -12,12 +12,6 @@ Seorang siswa SMK yang suka membangun project, mencoba teknologi baru, dan terus
 
 <br/>
 
-<a href="https://github.com/Rafa-Smart">
-  <img src="https://img.shields.io/github/followers/Rafa-Smart?style=for-the-badge&label=Followers&labelColor=000000&color=111111" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Rafa-Smart&style=for-the-badge&label=Profile+Views&labelColor=000000&color=111111" />
-
 </div>
 
 ---
@@ -99,21 +93,15 @@ Karena itu saya terus belajar, mencoba, memperbaiki, dan membangun sesuatu setia
 
 # GitHub Stats
 
+# GitHub Stats
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafa-Smart&show_icons=true&theme=transparent&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafa-Smart&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa-Smart&layout=compact&theme=transparent&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa-Smart&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# Current Focus
-
-```txt
-Building better projects
-Improving architecture
-Writing cleaner code
-Learning deeply
-Creating real products
