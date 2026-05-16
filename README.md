@@ -1,8 +1,8 @@
 <div align="center">
 
-# Rafa Khadafi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:1A1A1A&height=180&section=header&text=Rafa%20Khadafi&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
 
-### Full-Stack & Mobile Developer
+# Full-Stack & Mobile Developer
 
 <p>
 Seorang siswa SMK yang suka membangun project, mencoba teknologi baru, dan terus berkembang lewat proses belajar yang konsisten.
@@ -12,11 +12,17 @@ Seorang siswa SMK yang suka membangun project, mencoba teknologi baru, dan terus
 
 <br/>
 
+ 
+
 </div>
 
 ---
 
-# About Me
+<div align="center">
+
+## About Me
+
+</div>
 
 Saya adalah siswa dari **SMK Negeri 1 Cianjur** yang memiliki ketertarikan besar di dunia teknologi, khususnya di bidang web development, mobile development, dan software engineering.
 
@@ -36,9 +42,9 @@ Karena itu saya terus belajar, mencoba, memperbaiki, dan membangun sesuatu setia
 
 ---
 
-# Tech Stack
-
 <div align="center">
+
+## Tech Stack
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vite,redux,tailwind,bootstrap,sass" />
@@ -56,52 +62,95 @@ Karena itu saya terus belajar, mencoba, memperbaiki, dan membangun sesuatu setia
 
 ---
 
-# What I Learn
-
 <div align="center">
 
-| Frontend | Backend | Mobile | Other |
-|---|---|---|---|
-| React | Laravel | Flutter | REST API |
-| Next.js | PHP | Dart | Clean Architecture |
-| TypeScript | Express.js | GetX | SOLID Principle |
-| Redux | Node.js | Mobile UI | Git & GitHub |
-| Tailwind CSS | MySQL | State Management | Deployment |
-| Responsive UI | Authentication | API Integration | Machine Learning |
-| Vite | CRUD System | Reusable Widgets | Arduino |
+## What I Learn
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### Frontend
+
+React  
+Next.js  
+TypeScript  
+Redux  
+Tailwind CSS  
+Responsive UI  
+Vite  
+
+</td>
+
+<td align="center" width="25%">
+
+### Backend
+
+Laravel  
+PHP  
+Express.js  
+Node.js  
+MySQL  
+Authentication  
+CRUD System  
+
+</td>
+
+<td align="center" width="25%">
+
+### Mobile
+
+Flutter  
+Dart  
+GetX  
+State Management  
+Mobile UI  
+API Integration  
+
+</td>
+
+<td align="center" width="25%">
+
+### Other
+
+REST API  
+Clean Architecture  
+SOLID Principle  
+Git & GitHub  
+Machine Learning  
+Arduino  
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-# Projects
+<div align="center">
+
+## GitHub Stats
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rafa-Smart&show_icons=true&theme=transparent&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa-Smart&layout=compact&theme=transparent&hide_border=true" />
+
+</div>
+
+<br/>
 
 <div align="center">
 
-| Project | Description |
-|---|---|
-| **Aventador Vibe Project** | Modern React + Vite project focused on UI and development exploration |
-| **ZieMart Android Project** | Flutter-based e-commerce mobile application |
-| **POS Laravel Project** | Point of sale system with transaction and management features |
-| **Facegram React Project** | Social media-inspired app using React and PHP backend |
-| **Online Shop Laravel** | Full-stack online shop built with Laravel |
-| **REST API Contact Management** | API-focused contact management project |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafa-Smart&theme=react-dark&hide_border=true&area=true" width="95%" />
 
 </div>
 
 ---
 
-# GitHub Stats
-
-# GitHub Stats
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafa-Smart&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa-Smart&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
+```txt
+Stay curious.
+Keep building.
+</div> ```
