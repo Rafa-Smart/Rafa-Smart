@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F0F,100:1A1A1A&height=180&section=header&text=Rafa%20Khadafi&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:2563EB&height=220&section=header&text=Rafa%20Khadafi&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" />
 
 # Full-Stack & Mobile Developer
 
@@ -8,11 +8,13 @@
 Seorang siswa SMK yang suka membangun project, mencoba teknologi baru, dan terus berkembang lewat proses belajar yang konsisten.
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Mobile+Developer;React+%7C+Next.js+%7C+Flutter;Laravel+%7C+Node.js+%7C+TypeScript;Always+Learning+and+Building" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;Mobile+Developer;React+%7C+Next.js+%7C+Flutter;Laravel+%7C+Node.js+%7C+TypeScript;Always+Learning+and+Building" />
 
 <br/>
 
- 
+<img src="https://img.shields.io/github/followers/Rafa-Smart?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A&color=2563EB" />
+
+<img src="https://komarev.com/ghpvc/?username=Rafa-Smart&style=for-the-badge&label=Profile+Views&labelColor=0F172A&color=2563EB" />
 
 </div>
 
@@ -29,14 +31,6 @@ Saya adalah siswa dari **SMK Negeri 1 Cianjur** yang memiliki ketertarikan besar
 Saya suka belajar dengan cara membangun project secara langsung.  
 Bagi saya, coding bukan hanya tentang membuat aplikasi berjalan, tetapi juga tentang memahami cara kerja sistem, struktur code, architecture, dan bagaimana sebuah ide bisa berubah menjadi produk nyata.
 
-Sebagian besar repository saya berisi:
-- Dokumentasi perjalanan belajar
-- Eksperimen teknologi baru
-- Mini project
-- Full project development
-- Catatan implementasi
-- Latihan clean architecture dan reusable code
-
 Saya percaya bahwa progress datang dari konsistensi.  
 Karena itu saya terus belajar, mencoba, memperbaiki, dan membangun sesuatu setiap hari.
 
@@ -47,16 +41,16 @@ Karena itu saya terus belajar, mencoba, memperbaiki, dan membangun sesuatu setia
 ## Tech Stack
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vite,redux,tailwind,bootstrap,sass" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vite,redux,tailwind,bootstrap,sass&theme=dark" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,firebase,supabase&theme=dark" />
 
 ### Mobile
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" />
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify,npm,yarn,bun,linux,arduino,python" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify,npm,yarn,bun,linux,arduino,python&theme=dark" />
 
 </div>
 
@@ -132,9 +126,9 @@ Arduino
 
 ## GitHub Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rafa-Smart&show_icons=true&theme=transparent&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rafa-Smart&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa-Smart&layout=compact&theme=transparent&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa-Smart&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -142,7 +136,7 @@ Arduino
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafa-Smart&theme=react-dark&hide_border=true&area=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafa-Smart&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 
 </div>
 
@@ -153,4 +147,3 @@ Arduino
 ```txt
 Stay curious.
 Keep building.
-</div> ```
