@@ -13,8 +13,7 @@ Seorang siswa SMK yang suka membangun project, mencoba teknologi baru, dan terus
 <br/>
 
 <img src="https://img.shields.io/github/followers/Rafa-Smart?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A&color=2563EB" />
-
-<img src="https://komarev.com/ghpvc/?username=Rafa-Smart&style=for-the-badge&label=Profile+Views&labelColor=0F172A&color=2563EB" />
+ 
 
 </div>
 
