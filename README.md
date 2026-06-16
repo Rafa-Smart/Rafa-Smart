@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:2563EB&height=220&section=header&text=Rafa%20Khadafi&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" />
 
-# Full-Stack & Mobile Developer
+# Full-Stack & Mobile Developer & Cloud Engineer (soon)
 <p>
 Seorang siswa SMK yang suka membangun project, mencoba teknologi baru, dan terus berkembang lewat proses belajar yang konsisten.
 </p>
