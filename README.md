@@ -3,10 +3,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:2563EB&height=220&section=header&text=Rafa%20Khadafi&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" />
 
 # Full-Stack & Mobile Developer
-
 <p>
 Seorang siswa SMK yang suka membangun project, mencoba teknologi baru, dan terus berkembang lewat proses belajar yang konsisten.
 </p>
+Currently Learning:
+Linux • Docker • Networking • Cloud Computing
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;Mobile+Developer;React+%7C+Next.js+%7C+Flutter;Laravel+%7C+Node.js+%7C+TypeScript;Always+Learning+and+Building" />
 
